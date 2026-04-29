@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.instagram.com/sxc_joao">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://www.un.org/sites/un2.un.org/files/2024/07/linkedin-icon.png" />
   </a>
   <a
     href="(https://www.linkedin.com/feed">
