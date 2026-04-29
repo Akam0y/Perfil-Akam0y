@@ -38,9 +38,9 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.instagram.com/sxc_joao">
-    <img src="https://www.un.org/sites/un2.un.org/files/2024/07/linkedin-icon.png" />
+    <img src="" />
   </a>
   <a
     href="(https://www.linkedin.com/feed">
-     <img src="https://www.un.org/zh/model-united-nations/linkedin-icon" />
+     <img src="" />
 </div>
