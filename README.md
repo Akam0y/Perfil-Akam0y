@@ -40,4 +40,7 @@
   <a href="https://www.instagram.com/sxc_joao">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a
+    href="(https://www.linkedin.com/feed">
+     <img src="https://apps.microsoft.com/detail/9wzdncrfj4q7?hl=pt-BR&gl=BR" />
 </div>
