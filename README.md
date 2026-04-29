@@ -42,5 +42,5 @@
   </a>
   <a
     href="(https://www.linkedin.com/feed">
-     <img src="https://apps.microsoft.com/detail/9wzdncrfj4q7?hl=pt-BR&gl=BR" />
+     <img src="https://www.un.org/zh/model-united-nations/linkedin-icon" />
 </div>
